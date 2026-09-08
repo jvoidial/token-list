@@ -1,0 +1,231 @@
+{
+  "timestamp": "2026-09-03T19:06:16.526366",
+  "tokens": {
+    "PIDX": {
+      "address": "0x95c7e2d53f4b615a50d4468dfd5aff850dc17f0c"
+    },
+    "SGUIDE": {
+      "address": "0xb50DCEb0570557B9B7FE43D8cBDc9B3457D3dc5a"
+    },
+    "VDOO": {
+      "address": "0x38e4f08D08b4D772A7B75669C356b4749dd2d30b"
+    },
+    "PENNIES": {
+      "address": "0x2a92CAA3b01E64634e2E95AA533a5570a76c19A7"
+    }
+  },
+  "markets": {
+    "Asia": {
+      "exchanges": [
+        {
+          "name": "OKX",
+          "url": "https://www.okx.com/apply-listing",
+          "country": "China"
+        },
+        {
+          "name": "Gate.io",
+          "url": "https://www.gate.io/listing-application",
+          "country": "China"
+        },
+        {
+          "name": "HTX",
+          "url": "https://www.htx.com/en-us/apply-listing",
+          "country": "China"
+        },
+        {
+          "name": "bitFlyer",
+          "url": "https://bitflyer.com/apply-listing",
+          "country": "Japan"
+        },
+        {
+          "name": "Coincheck",
+          "url": "https://coincheck.com/apply",
+          "country": "Japan"
+        },
+        {
+          "name": "GMO Coin",
+          "url": "https://coin.z.com/apply",
+          "country": "Japan"
+        },
+        {
+          "name": "Upbit",
+          "url": "https://upbit.com/apply",
+          "country": "Korea"
+        },
+        {
+          "name": "Bithumb",
+          "url": "https://bithumb.com/apply",
+          "country": "Korea"
+        },
+        {
+          "name": "Coinone",
+          "url": "https://coinone.co.kr/apply",
+          "country": "Korea"
+        },
+        {
+          "name": "Crypto.com",
+          "url": "https://crypto.com/apply",
+          "country": "Singapore"
+        },
+        {
+          "name": "Coinhako",
+          "url": "https://coinhako.com/apply",
+          "country": "Singapore"
+        },
+        {
+          "name": "OSL",
+          "url": "https://osl.com/apply",
+          "country": "Hong Kong"
+        },
+        {
+          "name": "HashKey",
+          "url": "https://hashkey.com/apply",
+          "country": "Hong Kong"
+        }
+      ]
+    },
+    "Europe": {
+      "exchanges": [
+        {
+          "name": "Binance",
+          "url": "https://www.binance.com/en/apply-listing",
+          "country": "Global"
+        },
+        {
+          "name": "Kraken",
+          "url": "https://www.kraken.com/apply-listing",
+          "country": "UK"
+        },
+        {
+          "name": "Bitstamp",
+          "url": "https://www.bitstamp.net/apply-listing",
+          "country": "UK"
+        },
+        {
+          "name": "Coinbase",
+          "url": "https://www.coinbase.com/apply-listing",
+          "country": "USA"
+        },
+        {
+          "name": "eToro",
+          "url": "https://www.etoro.com/apply-listing",
+          "country": "UK"
+        },
+        {
+          "name": "Revolut",
+          "url": "https://www.revolut.com/apply-listing",
+          "country": "UK"
+        },
+        {
+          "name": "Bybit",
+          "url": "https://www.bybit.com/apply-listing",
+          "country": "Global"
+        },
+        {
+          "name": "KuCoin",
+          "url": "https://www.kucoin.com/apply-listing",
+          "country": "Global"
+        },
+        {
+          "name": "Bitfinex",
+          "url": "https://www.bitfinex.com/apply-listing",
+          "country": "Global"
+        },
+        {
+          "name": "Crypto.com",
+          "url": "https://crypto.com/apply",
+          "country": "Global"
+        }
+      ]
+    },
+    "Americas": {
+      "exchanges": [
+        {
+          "name": "Coinbase",
+          "url": "https://www.coinbase.com/apply-listing",
+          "country": "USA"
+        },
+        {
+          "name": "Kraken",
+          "url": "https://www.kraken.com/apply-listing",
+          "country": "USA"
+        },
+        {
+          "name": "Gemini",
+          "url": "https://www.gemini.com/apply-listing",
+          "country": "USA"
+        },
+        {
+          "name": "Bitstamp",
+          "url": "https://www.bitstamp.net/apply-listing",
+          "country": "USA"
+        },
+        {
+          "name": "Robinhood",
+          "url": "https://www.robinhood.com/apply-listing",
+          "country": "USA"
+        },
+        {
+          "name": "Crypto.com",
+          "url": "https://crypto.com/apply",
+          "country": "USA"
+        },
+        {
+          "name": "OKX",
+          "url": "https://www.okx.com/apply-listing",
+          "country": "USA"
+        },
+        {
+          "name": "Binance.US",
+          "url": "https://www.binance.us/apply-listing",
+          "country": "USA"
+        }
+      ]
+    },
+    "Middle East": {
+      "exchanges": [
+        {
+          "name": "Binance",
+          "url": "https://www.binance.com/en/apply-listing",
+          "country": "UAE"
+        },
+        {
+          "name": "Bitoasis",
+          "url": "https://www.bitoasis.net/apply-listing",
+          "country": "UAE"
+        },
+        {
+          "name": "Rain",
+          "url": "https://www.rain.com/apply-listing",
+          "country": "Bahrain"
+        },
+        {
+          "name": "CoinMENA",
+          "url": "https://www.coinmena.com/apply-listing",
+          "country": "Bahrain"
+        }
+      ]
+    },
+    "Africa": {
+      "exchanges": [
+        {
+          "name": "Binance",
+          "url": "https://www.binance.com/en/apply-listing",
+          "country": "Nigeria"
+        },
+        {
+          "name": "Luno",
+          "url": "https://www.luno.com/apply-listing",
+          "country": "South Africa"
+        },
+        {
+          "name": "Valr",
+          "url": "https://www.valr.com/apply-listing",
+          "country": "South Africa"
+        }
+      ]
+    }
+  },
+  "total_exchanges": 38,
+  "status": "READY"
+}

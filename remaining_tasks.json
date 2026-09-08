@@ -1,0 +1,70 @@
+{
+  "start_date": "2026-09-03T18:54:22.359772",
+  "dexscreener": {
+    "checked": true,
+    "found": false
+  },
+  "volume": {
+    "started": true,
+    "daily_target": 50000
+  },
+  "exchanges": {
+    "OKX": {
+      "applied": true,
+      "date": "2026-09-03T18:54:45.263401"
+    },
+    "Gate.io": {
+      "applied": true,
+      "date": "2026-09-03T18:54:46.265086"
+    },
+    "HTX": {
+      "applied": true,
+      "date": "2026-09-03T18:54:47.267696"
+    },
+    "bitFlyer": {
+      "applied": true,
+      "date": "2026-09-03T18:54:48.270561"
+    },
+    "Coincheck": {
+      "applied": true,
+      "date": "2026-09-03T18:54:49.272098"
+    },
+    "GMO Coin": {
+      "applied": true,
+      "date": "2026-09-03T18:54:50.274776"
+    },
+    "Upbit": {
+      "applied": true,
+      "date": "2026-09-03T18:54:51.276719"
+    },
+    "Bithumb": {
+      "applied": true,
+      "date": "2026-09-03T18:54:52.278876"
+    },
+    "Coinone": {
+      "applied": true,
+      "date": "2026-09-03T18:54:53.280858"
+    },
+    "Crypto.com": {
+      "applied": true,
+      "date": "2026-09-03T18:54:54.283459"
+    },
+    "Coinhako": {
+      "applied": true,
+      "date": "2026-09-03T18:54:55.287211"
+    },
+    "OSL": {
+      "applied": true,
+      "date": "2026-09-03T18:54:56.292363"
+    },
+    "HashKey": {
+      "applied": true,
+      "date": "2026-09-03T18:54:57.297650"
+    }
+  },
+  "audit": {
+    "planned": true,
+    "completed": false
+  },
+  "months": 0
+}

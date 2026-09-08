@@ -1,0 +1,69 @@
+{
+  "timestamp": "2026-09-03T18:52:51.230275",
+  "tokens": {
+    "PIDX": {
+      "coingecko": true,
+      "superchain": true,
+      "geckoterminal": {
+        "visible": true,
+        "url": "https://www.geckoterminal.com/base/pools/0x0b780B8a72EE2510e62608AAC4F130a29DBD5DF7",
+        "note": "Auto-detected from CoinGecko listing"
+      },
+      "dexscreener": {
+        "visible": false
+      },
+      "liquidity": true
+    },
+    "SGUIDE": {
+      "coingecko": true,
+      "superchain": true,
+      "geckoterminal": {
+        "visible": true,
+        "url": "https://www.geckoterminal.com/base/pools/0xC08892F34EDd6C4C24c3B5bd577f0337385f17af",
+        "note": "Auto-detected from CoinGecko listing"
+      },
+      "dexscreener": {
+        "visible": false
+      },
+      "liquidity": true
+    },
+    "VDOO": {
+      "coingecko": true,
+      "superchain": true,
+      "geckoterminal": {
+        "visible": true,
+        "url": "https://www.geckoterminal.com/base/pools/0x68a38E83E5A15dDE3Daa44e9bb7243fC8c96FB0f",
+        "note": "Auto-detected from CoinGecko listing"
+      },
+      "dexscreener": {
+        "visible": false
+      },
+      "liquidity": true
+    },
+    "PENNIES": {
+      "coingecko": true,
+      "superchain": true,
+      "geckoterminal": {
+        "visible": true,
+        "url": "https://www.geckoterminal.com/base/pools/0x29a0Ae1F10629f8855c87C911531fFb2c98d68c6",
+        "note": "Auto-detected from CoinGecko listing"
+      },
+      "dexscreener": {
+        "visible": false
+      },
+      "liquidity": true
+    }
+  },
+  "requirements": {
+    "coingecko": true,
+    "superchain": true,
+    "token_lists": true,
+    "pancakeswap": true,
+    "dexscreener": false,
+    "liquidity": true,
+    "volume": false,
+    "audit": false,
+    "time": false
+  },
+  "ready": false
+}

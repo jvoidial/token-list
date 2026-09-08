@@ -1,0 +1,64 @@
+{
+  "China": {
+    "OKX": {
+      "url": "https://www.okx.com",
+      "status": "pending"
+    },
+    "Gate.io": {
+      "url": "https://www.gate.io",
+      "status": "pending"
+    },
+    "HTX": {
+      "url": "https://www.htx.com",
+      "status": "pending"
+    }
+  },
+  "Japan": {
+    "bitFlyer": {
+      "url": "https://bitflyer.com",
+      "status": "pending"
+    },
+    "Coincheck": {
+      "url": "https://coincheck.com",
+      "status": "pending"
+    },
+    "GMO Coin": {
+      "url": "https://coin.z.com",
+      "status": "pending"
+    }
+  },
+  "Korea": {
+    "Upbit": {
+      "url": "https://upbit.com",
+      "status": "pending"
+    },
+    "Bithumb": {
+      "url": "https://bithumb.com",
+      "status": "pending"
+    },
+    "Coinone": {
+      "url": "https://coinone.co.kr",
+      "status": "pending"
+    }
+  },
+  "Singapore": {
+    "Crypto.com": {
+      "url": "https://crypto.com",
+      "status": "pending"
+    },
+    "Coinhako": {
+      "url": "https://coinhako.com",
+      "status": "pending"
+    }
+  },
+  "Hong Kong": {
+    "OSL": {
+      "url": "https://osl.com",
+      "status": "pending"
+    },
+    "HashKey": {
+      "url": "https://hashkey.com",
+      "status": "pending"
+    }
+  }
+}
